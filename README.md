@@ -1,4 +1,4 @@
-# digits
+# largest_number_two_digits
 Small C program that builds the largest possible two-digit number using two input digits (from 0 to 9).
 # Max Number with Two Digits
 
